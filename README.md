@@ -42,3 +42,8 @@ print(store.stats())
 ## License
 
 MIT
+
+
+## Prerequisites
+- Required environment and dependencies
+
