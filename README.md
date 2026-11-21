@@ -1,5 +1,7 @@
 # Content-Addressed Block Store
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A Python content-addressed storage system with content-defined chunking and automatic deduplication. Efficiently stores large files by splitting them into content-defined chunks and deduplicating at the chunk level.
 
 ## Features
@@ -46,4 +48,3 @@ MIT
 
 ## Prerequisites
 - Required environment and dependencies
-
